@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/MarioTestRoom.unity
+  isLoaded: 1
+  isActive: 1
